@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1392481380 source:c:\kaiubi\development\genetic algorithms\artificialantcpp\artificialant2.cpp
+	"geneticLibrary.h"
+	"matrixLib.h"
+
+1426034984 c:\kaiubi\development\genetic algorithms\artificialantcpp\geneticlibrary.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1372659823 c:\kaiubi\development\genetic algorithms\artificialantcpp\matrixlib.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1372660262 source:c:\kaiubi\development\genetic algorithms\artificialantcpp\matrixlib.cpp
+	"matrixLib.h"
+

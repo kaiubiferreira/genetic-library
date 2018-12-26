@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1373378841 source:c:\kaiubi\development\genetic algorithms\truck back\geneticlib.cpp
+	"geneticLib.h"
+
+1373154042 c:\kaiubi\development\genetic algorithms\truck back\geneticlib.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"enable.h"
+
+1373430158 source:c:\kaiubi\development\genetic algorithms\truck back\main.cpp
+	<iostream>
+	"geneticLib.h"
+	<windows.h>
+
+1372901529 source:c:\kaiubi\development\genetic algorithms\truck back\color.cpp
+	"Color.h"
+
+1373039866 c:\kaiubi\development\genetic algorithms\truck back\color.h
+	<GL/glut.h>
+	<iostream>
+
+1372906503 source:c:\kaiubi\development\genetic algorithms\truck back\enable.cpp
+	"enable.h"
+
+1373042425 c:\kaiubi\development\genetic algorithms\truck back\enable.h
+	<GL/glut.h>
+	"Color.h"
+	<stdlib.h>
+	<iostream>
+
+1372974665 source:c:\kaiubi\development\genetic algorithms\truck back\vector.cpp
+	"Vector.h"
+
+1372994711 c:\kaiubi\development\genetic algorithms\truck back\vector.h
+	<GL/glut.h>
+	<iostream>
+	"math.h"
+
